@@ -1,11 +1,5 @@
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-TX8nEtdicvmUviU8jOD5b+jj8IhtaBrLl+25l5W9jJ1a1d5o/q3R8+Qpjae37L+" crossorigin="anonymous">
-<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.18.0/font/bootstrap-icons.css" rel="stylesheet">
-
-
-
-
 <h1 align="center">Hi 👋, I'm Pulak_Kar</h1>
-<h3 align="left">a passionate developer who loves learning new things from different technologies. I specialize in creating websites using HTML, CSS, and JavaScript, enabling people to access sites and applications through their browser controls. I'm also proficient in Laravel, a powerful PHP framework known for its elegant syntax and <b class="danger">MVC (Model-View-Controller)</b> architectural pattern. Furthermore, I have experience with React JS, a popular open-source JavaScript library for creating fast and scalable web applications. React JS allows me to build interactive user interfaces quickly and easily, enhancing the user experience</h3>
+<h3 align="left">a passionate developer who loves learning new things from different technologies. I specialize in creating websites using HTML, CSS, and JavaScript, enabling people to access sites and applications through their browser controls. I'm also proficient in Laravel, a powerful PHP framework known for its elegant syntax and MVC (Model-View-Controller) architectural pattern. Furthermore, I have experience with React JS, a popular open-source JavaScript library for creating fast and scalable web applications. React JS allows me to build interactive user interfaces quickly and easily, enhancing the user experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hro57&label=Profile%20views&color=0e75b6&style=flat" alt="hro57" /> </p>
 
